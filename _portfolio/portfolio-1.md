@@ -1,6 +1,6 @@
 ---
 title: "Robotics Capstone Project"
-excerpt: "Teleoperated hexapod robot with ROS2-based control, localization, sensor integration, and adaptive gait control.<br/><img src='/images/hexapod.jpg'>"
+excerpt: "Teleoperated hexapod robot with ROS2-based control, localization, sensor integration, and adaptive gait control.<br/><img src='/images/hermit.png'>"
 collection: portfolio
 ---
 

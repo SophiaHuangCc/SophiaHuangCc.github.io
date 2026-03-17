@@ -1,11 +1,13 @@
 ---
-title: "Collaborative Robotics Project"
-excerpt: "Teleoperated hexapod robot with ROS2-based control, localization, sensor integration, and adaptive gait control.<br/><img src='/images/hexapod.jpg'>"
+title: "Collaborative Robotics (Multi-Robot Coordination)"
+excerpt: "Multi-robot collaboration using LoCoBots for decentralized resource gathering without explicit communication.<br/><img src='/images/colab.png'>"
 collection: portfolio
 ---
 
-Led the design and implementation of a teleoperated hexapod robot, including system architecture, sensor integration, and adaptive gait control for navigation in uneven terrains.
+Worked on a collaborative robotics project involving multiple LoCoBots performing a resource-gathering task without direct digital communication.
 
-Integrated hardware and software subsystems including ROS2-based control, localization sensor fusion, teleoperation, and power management to achieve end-to-end functionality and reliable communication.
+Designed and implemented coordination strategies where robots interact through environment-based cues and shared task objectives, enabling decentralized multi-agent collaboration.
 
-[View more details](https://sites.google.com/view/collab-robotics-team7/home)
+The system demonstrates principles of multi-robot coordination, distributed decision-making, and embodied intelligence in robotic systems.
+
+[View full project website](https://sites.google.com/view/collab-robotics-team7/home)
