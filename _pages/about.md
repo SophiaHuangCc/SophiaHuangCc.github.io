@@ -20,5 +20,5 @@ Selected work
 ======
 * [Portfolio](/portfolio/)
 * [CV](/cv/)
-* [Project website 1](PASTE_LINK_HERE)
-* [Project website 2](PASTE_LINK_HERE)
+* [HERMIT Project](https://sites.google.com/andrew.cmu.edu/hermit/home)
+* [LoCobot Project](https://sites.google.com/view/collab-robotics-team7/home)
